@@ -12,7 +12,7 @@ From the repository's main folder, run:
 python3 -m http.server 8000 --directory nfl-roster-UI
 ```
 
-Open http://localhost:8000. No JavaScript dependencies or build step are required. Use a web server because the UI loads data.json with fetch. Google Fonts is optional and has system-font fallbacks.
+Open [this](https://nfl-roster-lab-parsa.truepatio4.chatgpt.site). No JavaScript dependencies or build step are required. Use a web server because the UI loads data.json with fetch. Google Fonts is optional and has system-font fallbacks.
 
 ## Use the recommender
 
